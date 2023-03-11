@@ -2,10 +2,14 @@
 application with nrf52840
 
 
++ [Inserting the Nordic nRF52840 dongle into the OpenSK Enclosure - YouTube](https://www.youtube.com/watch?v=CPq-WSHnnHA)
+
+
 ## Hardware
 
 + [Everything nRF52840 | MySensors Forum](https://forum.mysensors.org/topic/9717/everything-nrf52840/5?lang=en-US)
 + [nRF52840 Dongle - nordicsemi.com](https://www.nordicsemi.com/Products/Development-hardware/nrf52840-dongle)
++ [NRF52840-DONGLE Nordic Semiconductor ASA | Entwicklungsboards, -kits, Programmierer | DigiKey](https://www.digikey.de/de/products/detail/nordic-semiconductor-asa/NRF52840-DONGLE/9491124)
 
 
 
