@@ -18,3 +18,8 @@ application with nrf52840
 + [adafruit/Adafruit_nRF52_Arduino: Adafruit code for the Nordic nRF52 BLE SoC on Arduino](https://github.com/adafruit/Adafruit_nRF52_Arduino)
 + [circuitpython/ports/nrf at main · adafruit/circuitpython · GitHub](https://github.com/adafruit/circuitpython/tree/main/ports/nrf)
 + [Bluetooth Low Energy Development with Flutter and CircuitPython](https://pietrowicz-eric.medium.com/bluetooth-low-energy-development-with-flutter-and-circuitpython-c7a25eafd3cf)
+
+
+---
+
++ [edit](https://github.com/apitoy/nrf52840/edit/main/README.md)
