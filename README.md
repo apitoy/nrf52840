@@ -29,6 +29,25 @@ application with nrf52840
 
 
 
+## competitors, gaming
+
++ [8BitDo USB Wireless Adapter 2 | 8BitDo](https://www.8bitdo.com/usb-wireless-adapter-2/)
+
+
+
+## Compiling and running blinky example[¶](https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/nrf5-sdk/#compiling-and-running-blinky-example "Permanent link")
++ [nRF5 SDK - nRF52840 MDK USB Dongle](https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/nrf5-sdk/)
+
+> Next, you can try to build one of the examples. Will use the `blinky` example here to keep it simple.
+> 
+> Open terminal, change directory and the compile the example:
+> 
+> $ cd ./nrf52840-mdk-usb-dongle/examples/nrf5-sdk/blinky/armgcc/
+> $ make
+> 
+> While holding the dongle's RESET/USR button, connect it to your computer. When the Dongle has entered the bootloader mode, the RGB LED pulses RED. The Dongle is now ready for programming.
+
+
 
 
 ## google 
